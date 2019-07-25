@@ -40,6 +40,20 @@ body
     padding: 1em;
 }
 
+#footer {
+    background: #57606f;
+    text-align: center;
+    padding: 12px;
+    color: white;
+    content: '\1F600';
+    content: '\1F601';
+}
+
+#unicorn {
+    font-size: 20px;
+    vertical-align: middle;
+}
+
 #container h1
 {
     font-size: 20px;
